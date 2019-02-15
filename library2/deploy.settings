@@ -1,0 +1,8 @@
+siteUrl = https://github.com/GaldinoJr/
+gitUrl = https://github.com/GaldinoJr/testeAAR
+version = 0.0.1
+groupId =  com.example.galdinorodrigues
+licenses = ["Apache-2.0"] // or something else
+id =  arrteste2
+repository = galdinojr
+name = Teste // actually not used
