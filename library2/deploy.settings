@@ -1,6 +1,6 @@
 siteUrl = https://github.com/GaldinoJr/
 gitUrl = https://github.com/GaldinoJr/testeAAR
-version = 0.0.1
+version = 0.0.2
 groupId =  com.example.galdinorodrigues.arrteste2
 licenses = ["Apache-2.0"] // or something else
 id = teste3
