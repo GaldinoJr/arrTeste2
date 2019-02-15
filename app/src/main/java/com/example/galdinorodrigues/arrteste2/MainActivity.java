@@ -3,11 +3,14 @@ package com.example.galdinorodrigues.arrteste2;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.library2.ActivityTest;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
     }
 }
